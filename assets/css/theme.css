@@ -134,7 +134,7 @@ section.top {
     padding-bottom: 182px;
     position: relative;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 7.238%, rgba(0, 0, 0, 0) 23.746%), rgba(0, 0, 0, 0.2);
-    background-image: url('assets/img/top.jpeg'); background-position: center;
+    background-image: url('../img/top.jpeg'); background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -588,7 +588,7 @@ section.top .right .subtext {
     padding-top: 64px;
     padding-bottom: 64px;
     position: relative;
-    background-image: url('assets/img/Sibirische_Zeder.png');
+    background-image: url('../img/Sibirische_Zeder.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
